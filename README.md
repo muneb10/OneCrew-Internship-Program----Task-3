@@ -25,9 +25,8 @@ Clone or Download the Repository: Start by cloning this repository to your local
 
 Install Dependencies: If you haven't already, install the required dependencies for your React project using the following command in your project's root directory:
 
-bash
-Copy code
 npm install
+
 Replace Files and Folders:
 
 Copy the components Folder: Place the components folder from this repository inside your project's src folder. These components are responsible for rendering the registration and login pages.
@@ -40,9 +39,8 @@ Check react-router-dom Version: The routing in the provided App.js file uses the
 
 Run Your React Project: After making the necessary file replacements and configurations, run your React project using:
 
-bash
-Copy code
 npm start
+
 Access the Registration and Login Pages: You should now be able to access the registration and login pages by navigating to the appropriate routes in your React application.
 
 Please note that the success of your project's setup may depend on your specific project structure and configuration. Make sure to read and understand the code within the provided App.js and components for a seamless integration into your React project.
